@@ -1,6 +1,8 @@
 ##  👋🏼 Hi there ! Welcome to my GitHub profile! 
 
-I am Jiaqi, Business Intelligence Developer/Data Analyst based in Christchurch, New Zealand! ![kiwi](https://github.com/hoiyurie/jaachee_yu/assets/84236678/f2d00ba8-0e73-4516-bbd3-c49119d4e130)
+I am Jiaqi, Business Intelligence Developer/Data Analyst based in Christchurch, New Zealand! <img width="86" alt="Screen Shot 2023-05-12 at 2 28 08 PM" src="https://github.com/jiaqiyu1/jiaqiyu1/assets/84236678/88a0c789-ec43-4d81-813e-280da0015a93"> <img width="72" alt="Screen Shot 2023-05-12 at 2 30 36 PM" src="https://github.com/jiaqiyu1/jiaqiyu1/assets/84236678/fa702aa6-2fe7-4da8-a312-f5c4bc20aaa4">
+
+
 
 * 📌 I am currently working on a project of Australian Property Median Value with datasets from the AU government.
 * 📌 My expertise lies in BI solution architecture from data extraction, ETL, data modelling, data warehouse and visualisation,  and my skills include __SQL, MS BI suite (SSIS, SSAS, SSRS), Power BI, and dimensional modelling__, etc. 
