@@ -11,6 +11,7 @@ I am Jiaqi, Business Intelligence Developer/Data Analyst based in Christchurch, 
 Currently, I'm open to opportunities in roles such as Business Intelligence Analyst, Business Intelligence Developer, Data Analyst or Reporting Analyst
 
 ## 📕 PORTFOLIO 
-Please [click here]([https://link-url-here.org](https://github.com/jiaqiyu1/Portfolio_Guide/blob/main/README.md)) to have a look at my projects. 
+Please visit [My Portfolio Profile](https://github.com/jiaqiyu1/Portfolio_Guide) to learn more about my projects.
+
 
 
