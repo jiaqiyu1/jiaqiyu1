@@ -11,7 +11,7 @@ I am Jiaqi, Business Intelligence Developer/Data Analyst based in Christchurch, 
 * 📌 I am interested in cloud-based data analytics and am currently studying Azure service courses with a focus on data engineering, including Azure Fundamentals/ Azure Data Fundamentals/ Azure AI Fundamentals.
 * 📌 I have an adventurous personality, am curious about new things, and am always willing to try new skills.
 
-Currently, I'm open to opportunities in roles such as Business Intelligence Analyst, Business Intelligence Developer, Data Analyst or Reporting Analyst
+🎯 Currently, I'm open to opportunities in roles such as Business Intelligence Analyst, Business Intelligence Developer, Data Analyst or Reporting Analyst
 
 ## 📕 PORTFOLIO 
 Please visit [My Portfolio Profile](https://github.com/jiaqiyu1/Portfolio_Guide) to learn more about my projects.
