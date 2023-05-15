@@ -1,3 +1,7 @@
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/jiaqiyu1)
+[![View Repositories](https://img.shields.io/badge/View-My_Portfolio-red?logo=GitHub)](https://github.com/jiaqiyu1/Portfolio_Guide)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/jiaqiyu1?tab=repositories)
+
 ##  👋🏼 Hi there ! Welcome to my GitHub profile! 
 
 I am Jiaqi, Business Intelligence Developer/Data Analyst based in Christchurch, New Zealand! <img width="16" alt="Screen Shot 2023-05-12 at 2 28 08 PM" src="https://github.com/jiaqiyu1/jiaqiyu1/assets/84236678/1c98a86f-a241-4093-bab2-af3b64b4a1bc">  <img width="16" alt="Screen Shot 2023-05-12 at 2 30 36 PM" src="https://github.com/jiaqiyu1/jiaqiyu1/assets/84236678/b3f44124-6d06-4c5a-91d9-90c2d5eafd58">
