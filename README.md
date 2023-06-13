@@ -7,7 +7,19 @@ I am Jiaqi, Business Intelligence Developer/Data Analyst based in Christchurch, 
 
 
 * 📌 I am currently working on a project of Australian Property Median Value with datasets from the AU government.
-* 📌 My expertise lies in BI solution architecture from data extraction, ETL, data modelling, data warehouse and visualisation,  and my skills include __SQL, MS BI suite (SSIS, SSAS, SSRS), Power BI, and dimensional modelling__, etc. 
+* 📌 My expertise lies in end-to-end BI solution architecture from data extraction, ETL, data modelling, data warehouse and visualisation,  and my skills include __SQL, MS BI suite (SSIS, SSAS, SSRS), Power BI, and dimensional modelling__, etc. 
+* 📌 Solution delivery: 
+     Step 1: Case Analysis (4W+1H) to clarify business needs and requirements
+                    - Who needs to see the dashboard? -> Target audience group(s)
+                    - What are the key metrics? -> Facts  (median value/crime rate/ rental)
+                    - When does the team want to see it? -> yearly reports? 
+                    - Where does the team want to see it? -> Which state? 
+                    - How they want to see it (e.g. by state/ by school/by station)->dimensions
+     Step 2: Standardise data /ETL/ ELT process using SSIS packages and SQL to meet business requirements.
+     Step 3: Designing star-schema dimensional data models following Kimball methodologies to display relationships between dimensions and facts.
+     Step 4: Creating a bus matrix, identifying conformed dimensions.
+     Step 5: Designing data warehouses and data marts for efficient data storage and retrieval.
+     Step 6: Develop dashboards & paginated reports with Power BI/ SSRS for end-user accessibility, providing meaningful insights in a storytelling manner.
 * 📌 I am interested in cloud-based data analytics and am currently learning Azure Synapse.
 * 📌 I have an adventurous personality, am curious about new things, and am always willing to try new skills.
 
