@@ -15,7 +15,7 @@ I am Jiaqi, Business Intelligence Developer/Data Analyst based in Christchurch, 
      - When does the team want to see it? -> yearly reports?
      - Where does the team want to see it? -> Which state?
      - How they want to see it (e.g. by state/by school/by station) -> dimensions
-   - Step 2: Standardise data/ETL/ELT process using SSIS packages and SQL to meet business requirements.
+   - Step 2: Standardise data ETL/ELT process using SSIS packages and SQL to meet business requirements.
    - Step 3: Designing star-schema dimensional data models following Kimball methodologies to display relationships between dimensions and facts.
    - Step 4: Creating a bus matrix, identifying conformed dimensions.
    - Step 5: Designing data warehouses and data marts for efficient data storage and retrieval.
