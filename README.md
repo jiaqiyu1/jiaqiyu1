@@ -22,7 +22,7 @@ I am Jiaqi, Data Analyst/BI Developer <img width="16" alt="Screen Shot 2023-05-1
    - Step 6: Develop dashboards & paginated reports with Power BI/SSRS for end-user accessibility, providing meaningful insights in a storytelling manner.
 
 
-🎯 Currently, I'm open to opportunities in roles such as 𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘐𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦 𝘈𝘯𝘢𝘭𝘺𝘴𝘵, 𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘐𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳, 𝘋𝘢𝘵𝘢 𝘈𝘯𝘢𝘭𝘺𝘴𝘵, 𝘋𝘢𝘵𝘢/𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘐𝘯𝘴𝘪𝘨𝘩𝘵 𝘈𝘯𝘢𝘭𝘺𝘴𝘵
+🎯 Currently, I'm open to opportunities in roles such as 𝘋𝘢𝘵𝘢 𝘈𝘯𝘢𝘭𝘺𝘴𝘵, 𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘐𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦 𝘈𝘯𝘢𝘭𝘺𝘴𝘵, 𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘐𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳.
 
 
 ## 📕 PORTFOLIO 
